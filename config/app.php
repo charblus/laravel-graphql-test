@@ -151,6 +151,7 @@ return [
          * Package Service Providers...
          */
         Graphiql\GraphiqlServiceProvider::class,
+        Graphiql\GraphiqlServiceProvider::class,
         /*
          * Application Service Providers...
          */
